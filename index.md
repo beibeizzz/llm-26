@@ -21,6 +21,21 @@ This course covers the foundations and modern frontiers of Natural Language Proc
 
 - **Prerequisites:** No formal prerequisites. For Fudan students, it’s safe to take this course in your second year.
 
+### What You Will Learn
+
+By completing this course, you will be able to:
+
+- **Tokenization & Text Processing:** Implement BPE/WordPiece tokenizers from scratch and understand vocabulary design for modern LLMs.
+- **Language Modeling Fundamentals:** Build N-gram language models, apply smoothing techniques, and evaluate models using perplexity.
+- **Word Embeddings:** Train Word2Vec models and evaluate embeddings using intrinsic and extrinsic methods.
+- **Neural Architectures:** Implement the Transformer architecture (self-attention, multi-head attention, positional encodings) in raw PyTorch.
+- **LLM Training & Fine-tuning:** Understand pretraining objectives (Causal LM, MLM), scaling laws, and apply parameter-efficient fine-tuning methods (LoRA/QLoRA) to models like Llama and Qwen.
+- **Evaluation & Prompt Engineering:** Evaluate LLMs on standard benchmarks, apply in-context learning and Chain-of-Thought prompting strategies.
+- **RAG Systems:** Build retrieval-augmented generation pipelines with vector databases and measure hallucination rates.
+- **Alignment & Safety:** Understand RLHF, DPO, safety mechanisms, and red-teaming practices for responsible AI.
+- **Efficiency & Deployment:** Apply quantization (Int8/FP4), KV caching, and optimize inference latency and throughput.
+- **Agents & Frontiers:** Explore LLM-based agent systems, multimodal LLMs, and emerging research directions.
+
 ### Basic Info
 
 - **Course ID:** CS40008.01: NLP and LLMs
